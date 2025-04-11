@@ -10,7 +10,8 @@ This project contains a Power BI dashboard analyzing sales performance based on 
 ## 📄 Dashboard Preview (PDF)
 Click below to view the full dashboard:
 
-🔗 [View Dashboard PDF](./sales_dashboard.pdf)
+🔗 [Download Power BI Dashboard (.pbix)](./sales%20dashboard.pbix)
+
 
 ## 📈 Insights Gained
 - Region B had the highest sales in Q3
